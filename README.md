@@ -1,12 +1,16 @@
 # Open FC
 
+<img src=""/>
+
 ### Hardware
   - STM32F405RGT6
   - MPU6000
-  - AT456 OSD
+  - MAX7456 OSD
   - 5v regulator
   - 3v3 regulator
   - 4 motor ouput
+  - 30.5*30.5 mount hole
+  - SoftMount FC
 
 ### Firmware
   - [Betaflight](https://github.com/betaflight/betaflight)
