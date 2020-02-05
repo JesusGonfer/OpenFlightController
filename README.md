@@ -1,6 +1,6 @@
 # Open FC
 
-<img src=""/>
+<img src="https://github.com/JesusGonfer/OpenFlightController/blob/master/Images/Image1.png"/>
 
 ### Hardware
   - STM32F405RGT6
