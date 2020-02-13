@@ -1,6 +1,6 @@
 # Open FC
 
-<img src=""/>
+<img src="https://github.com/JesusGonfer/OpenFlightController/blob/master/Images/Image1.png"/>
 
 ### Hardware
   - STM32F405RGT6
@@ -21,4 +21,5 @@ Open fc is an attempt to create a homemade fc, compatible with betaflight and in
 This project is not a high priority so it will not be completed in the short term, thanks for your understanding.
 
 ## License
-[GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+[![Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) <br> Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
